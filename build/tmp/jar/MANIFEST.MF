@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: javapasta
+Implementation-Version: 1.0-SNAPSHOT
+Specification-Vendor: 
+Specification-Title: javapasta
+Implementation-Timestamp: 2024-07-20T13:22:53+0500
+Specification-Version: 1
+Implementation-Vendor: 
+

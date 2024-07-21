@@ -1,0 +1,233 @@
+Java Launcher: C:\Users\fevxh\.jdks\corretto-1.8.0_412\bin\java.exe
+Arguments: '--input, C:\Users\fevxh\Desktop\javapasta\build\libs\javapasta-1.0-SNAPSHOT.jar, --output, C:\Users\fevxh\Desktop\javapasta\build\reobfJar\output.jar, --names, C:\Users\fevxh\Desktop\javapasta\build\reobfJar\mappings.tsrg, --lib, C:\Users\fevxh\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.42_mapped_official_1.16.5\forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar, --lib, C:\Users\fevxh\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.42_mapped_official_1.16.5\forge-1.16.5-36.2.42_mapped_official_1.16.5-launcher.jar, --lib, C:\Users\fevxh\.gradle\caches\forge_gradle\minecraft_repo\versions\1.16.5\client-extra.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.0.9\d1e1ba354a40b5703340b5cb02fdca489cff3646\mergetool-1.0.9-api.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\cpw.mods\modlauncher\8.1.3\6d0bfd78e025a87d43985e30907aa9ecbc51b2d6\modlauncher-8.1.3.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.6\f1a9e5508eff490744144565c47326c8648be309\asm-commons-9.6.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.6\f77caf84eb93786a749b2baa40865b9613e3eaee\asm-util-9.6.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.6\9ce6c7b174bd997fc2552dff47964546bd7a5ec3\asm-analysis-9.6.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.6\c0cdda9d211e965d2a4448aa3fd86110f2f8c2de\asm-tree-9.6.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.6\aa205cf0a06dbd8e04ece91c0b37c3f5d567546a\asm-9.6.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\cpw.mods\grossjava9hacks\1.3.3\e49222512ea6cabdd8b49761cef1d5a207b1f0d9\grossjava9hacks-1.3.3.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecraftforge\accesstransformers\3.0.1\6d23c1b9cb0607fddc38d09730796f68db96f546\accesstransformers-3.0.1.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.antlr\antlr4-runtime\4.9.1\428664f05d2b7f7b7610204b5aa7c1763f62011a\antlr4-runtime-4.9.1.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecraftforge\eventbus\4.0.0\260e34800723e4c098c4e247cf2b900535e01b6d\eventbus-4.0.0.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecraftforge\forgespi\3.2.0\c6ca4e4e4a0343701407c760e642537b613b543\forgespi-3.2.0.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecraftforge\coremods\4.0.6\d6d761379c841e2610abebcbf70ed20b65f728f0\coremods-4.0.6.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecraftforge\unsafe\0.2.0\54d7a0a5e8fdb71b973025caa46f341ae5904f39\unsafe-0.2.0.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.electronwill.night-config\toml\3.6.3\2b05b4d606c517da4d1a7b6d2b97d751c92887d7\toml-3.6.3.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.electronwill.night-config\core\3.6.3\c601bfeaeb2c0abe7aaa901b0bbe6d1beff49281\core-3.6.3.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.jline\jline\3.12.1\de2bd909cb9f8eaa741bd03df4a1bd3f6eb593c7\jline-3.12.1.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.6.3\f8ff8032903882376e8d000c51e3e16d20fc7df7\maven-artifact-3.6.3.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.jodah\typetools\0.8.3\98f84f353457629e81cc6827224871b1a8faa7af\typetools-0.8.3.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecrell\terminalconsoleappender\1.2.0\96d02cd3b384ff015a8fef4223bcb4ccf1717c95\terminalconsoleappender-1.2.0.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.15.0\ba55c13d7ac2fd44df9cc8074455719a33f375b9\log4j-core-2.15.0.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j18-impl\2.15.0\88f72ad364bfc3a7cf43186fc17212f2b4bb8d97\log4j-slf4j18-impl-2.15.0.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.15.0\4a5aa7e55a29391c6f66e0b259d5189aa11e45d0\log4j-api-2.15.0.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.spongepowered\mixin\0.8.4\4ec7d77d9ab32596ca0b78bb123956734767e3a\mixin-0.8.4.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecraftforge\nashorn-core-compat\15.1.1.1\1817deb38a5a8811148dca0d23161d92bdbd6184\nashorn-core-compat-15.1.1.1.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.mojang\patchy\1.3.9\eb8bb7b66fa0e2152b1b40b3856e82f7619439ee\patchy-1.3.9.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\oshi-project\oshi-core\1.1\9ddf7b048a8d701be231c0f4f95fd986198fd2d8\oshi-core-1.1.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\4.4.0\cb208278274bf12ebdb56c61bd7407e6f774d65a\jna-4.4.0.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\platform\3.4.0\e3f70017be8100d3d6923f50b3d2ee17714e9c13\platform-3.4.0.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\66.1\72c7519b6d91f7a1f993bd44a99fe95d67211b27\icu4j-66.1.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.mojang\javabridge\1.0.22\6aa6453aa99a52a5cd91749da1af6ab70e082ab3\javabridge-1.0.22.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\io.netty\netty-all\4.1.25.Final\d0626cd3108294d1d58c05859add27b4ef21f83b\netty-all-4.1.25.Final.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\21.0\3a3d111be1be1b745edfa7d91678a12d7ed38709\guava-21.0.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.8.1\6505a72a097d9270f7a9e7bf42c4238283247755\commons-lang3-3.8.1.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.3.3\18f4247ff4572a074444572cee34647c43e7c9c7\httpclient-4.3.3.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.10\4b95f4897fa13f2cd904aee711aeafc0c5295cd8\commons-codec-1.10.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput\2.0.5\39c7796b469a600f72380316f6b1f11db6c2c7c4\jinput-2.0.5.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.java.jutils\jutils\1.0.0\e12fe1fda814bd348c1579329c86943d2cd3c6a6\jutils-1.0.0.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.mojang\brigadier\1.0.17\c6b7dc51dd44379cc751b7504816006e9be4b1e6\brigadier-1.0.17.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.mojang\datafixerupper\4.0.26\ebd6690f33871ccee9b6132c6480668ee2e35020\datafixerupper-4.0.26.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\2.1.28\ad54da276bf59983d02d5ed16fc14541354c71fd\authlib-2.1.28.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.8.1\a698750c16740fd5b3871425f4cb3bbaa87f529d\commons-compress-1.8.1.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.1.3\f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f\commons-logging-1.1.3.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.3.2\31fbbff1ddbf98f3aa7377c94d33b0447c646b6e\httpcore-4.3.2.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.2.1\5ad88f325e424f8dbc2be5459e21ea5cab3864e9\fastutil-8.2.1.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.2.2\ee8e57a79300f78294576d87c4a587f8c99402e2\lwjgl-jemalloc-3.2.2.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.2.2\2b772a102b0a11ee5f2109a5b136f4dc7c630827\lwjgl-openal-3.2.2.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.2.2\6ac5bb88b44c43ea195a570aab059f63da004cd8\lwjgl-opengl-3.2.2.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.2.2\d3ad4df38e400b8afba1de63f84338809399df5b\lwjgl-glfw-3.2.2.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.2.2\3b8e6ebc5851dd3d17e37e5cadce2eff2a429f0f\lwjgl-stb-3.2.2.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.2.2\fcbe606c8f8da6f8f9a05e2c540eb1ee8632b0e9\lwjgl-tinyfd-3.2.2.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.2.2\8ad6294407e15780b43e84929c40e4c5e997972e\lwjgl-3.2.2.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.11.3\f378f889797edd7df8d32272c06ca80a1b6b0f58\text2speech-1.11.3.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.2.1\13b015768e0d04849d2794e4c47eb02d01a0de32\plexus-utils-3.2.1.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.8.0-beta4\83b0359d847ee053d745be7ec0d8e9e8a44304b4\slf4j-api-1.8.0-beta4.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.jline\jline-reader\3.12.1\4382ab1382c7b6f379377ed5f665dc2f6e1218bc\jline-reader-3.12.1.jar, --lib, C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar, --disable-abstract-param'
+Classpath:
+ - C:\Users\fevxh\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\ForgeAutoRenamingTool\1.0.8\ForgeAutoRenamingTool-1.0.8-all.jar
+Working directory: C:\Users\fevxh\Desktop\javapasta\build\reobfJar
+Main class: net.minecraftforge.fart.Main
+====================================
+Forge Auto Renaming Tool v1.0.8
+lib: C:\Users\fevxh\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.42_mapped_official_1.16.5\forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar
+lib: C:\Users\fevxh\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.42_mapped_official_1.16.5\forge-1.16.5-36.2.42_mapped_official_1.16.5-launcher.jar
+lib: C:\Users\fevxh\.gradle\caches\forge_gradle\minecraft_repo\versions\1.16.5\client-extra.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.0.9\d1e1ba354a40b5703340b5cb02fdca489cff3646\mergetool-1.0.9-api.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\cpw.mods\modlauncher\8.1.3\6d0bfd78e025a87d43985e30907aa9ecbc51b2d6\modlauncher-8.1.3.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.6\f1a9e5508eff490744144565c47326c8648be309\asm-commons-9.6.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.6\f77caf84eb93786a749b2baa40865b9613e3eaee\asm-util-9.6.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.6\9ce6c7b174bd997fc2552dff47964546bd7a5ec3\asm-analysis-9.6.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.6\c0cdda9d211e965d2a4448aa3fd86110f2f8c2de\asm-tree-9.6.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.6\aa205cf0a06dbd8e04ece91c0b37c3f5d567546a\asm-9.6.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\cpw.mods\grossjava9hacks\1.3.3\e49222512ea6cabdd8b49761cef1d5a207b1f0d9\grossjava9hacks-1.3.3.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecraftforge\accesstransformers\3.0.1\6d23c1b9cb0607fddc38d09730796f68db96f546\accesstransformers-3.0.1.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.antlr\antlr4-runtime\4.9.1\428664f05d2b7f7b7610204b5aa7c1763f62011a\antlr4-runtime-4.9.1.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecraftforge\eventbus\4.0.0\260e34800723e4c098c4e247cf2b900535e01b6d\eventbus-4.0.0.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecraftforge\forgespi\3.2.0\c6ca4e4e4a0343701407c760e642537b613b543\forgespi-3.2.0.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecraftforge\coremods\4.0.6\d6d761379c841e2610abebcbf70ed20b65f728f0\coremods-4.0.6.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecraftforge\unsafe\0.2.0\54d7a0a5e8fdb71b973025caa46f341ae5904f39\unsafe-0.2.0.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.electronwill.night-config\toml\3.6.3\2b05b4d606c517da4d1a7b6d2b97d751c92887d7\toml-3.6.3.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.electronwill.night-config\core\3.6.3\c601bfeaeb2c0abe7aaa901b0bbe6d1beff49281\core-3.6.3.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.jline\jline\3.12.1\de2bd909cb9f8eaa741bd03df4a1bd3f6eb593c7\jline-3.12.1.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.6.3\f8ff8032903882376e8d000c51e3e16d20fc7df7\maven-artifact-3.6.3.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.jodah\typetools\0.8.3\98f84f353457629e81cc6827224871b1a8faa7af\typetools-0.8.3.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecrell\terminalconsoleappender\1.2.0\96d02cd3b384ff015a8fef4223bcb4ccf1717c95\terminalconsoleappender-1.2.0.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.15.0\ba55c13d7ac2fd44df9cc8074455719a33f375b9\log4j-core-2.15.0.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j18-impl\2.15.0\88f72ad364bfc3a7cf43186fc17212f2b4bb8d97\log4j-slf4j18-impl-2.15.0.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.15.0\4a5aa7e55a29391c6f66e0b259d5189aa11e45d0\log4j-api-2.15.0.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.spongepowered\mixin\0.8.4\4ec7d77d9ab32596ca0b78bb123956734767e3a\mixin-0.8.4.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.minecraftforge\nashorn-core-compat\15.1.1.1\1817deb38a5a8811148dca0d23161d92bdbd6184\nashorn-core-compat-15.1.1.1.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.mojang\patchy\1.3.9\eb8bb7b66fa0e2152b1b40b3856e82f7619439ee\patchy-1.3.9.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\oshi-project\oshi-core\1.1\9ddf7b048a8d701be231c0f4f95fd986198fd2d8\oshi-core-1.1.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\4.4.0\cb208278274bf12ebdb56c61bd7407e6f774d65a\jna-4.4.0.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\platform\3.4.0\e3f70017be8100d3d6923f50b3d2ee17714e9c13\platform-3.4.0.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\66.1\72c7519b6d91f7a1f993bd44a99fe95d67211b27\icu4j-66.1.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.mojang\javabridge\1.0.22\6aa6453aa99a52a5cd91749da1af6ab70e082ab3\javabridge-1.0.22.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\io.netty\netty-all\4.1.25.Final\d0626cd3108294d1d58c05859add27b4ef21f83b\netty-all-4.1.25.Final.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\21.0\3a3d111be1be1b745edfa7d91678a12d7ed38709\guava-21.0.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.8.1\6505a72a097d9270f7a9e7bf42c4238283247755\commons-lang3-3.8.1.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.3.3\18f4247ff4572a074444572cee34647c43e7c9c7\httpclient-4.3.3.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.10\4b95f4897fa13f2cd904aee711aeafc0c5295cd8\commons-codec-1.10.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput\2.0.5\39c7796b469a600f72380316f6b1f11db6c2c7c4\jinput-2.0.5.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\net.java.jutils\jutils\1.0.0\e12fe1fda814bd348c1579329c86943d2cd3c6a6\jutils-1.0.0.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.mojang\brigadier\1.0.17\c6b7dc51dd44379cc751b7504816006e9be4b1e6\brigadier-1.0.17.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.mojang\datafixerupper\4.0.26\ebd6690f33871ccee9b6132c6480668ee2e35020\datafixerupper-4.0.26.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\2.1.28\ad54da276bf59983d02d5ed16fc14541354c71fd\authlib-2.1.28.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.8.1\a698750c16740fd5b3871425f4cb3bbaa87f529d\commons-compress-1.8.1.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.1.3\f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f\commons-logging-1.1.3.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.3.2\31fbbff1ddbf98f3aa7377c94d33b0447c646b6e\httpcore-4.3.2.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.2.1\5ad88f325e424f8dbc2be5459e21ea5cab3864e9\fastutil-8.2.1.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.2.2\ee8e57a79300f78294576d87c4a587f8c99402e2\lwjgl-jemalloc-3.2.2.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.2.2\2b772a102b0a11ee5f2109a5b136f4dc7c630827\lwjgl-openal-3.2.2.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.2.2\6ac5bb88b44c43ea195a570aab059f63da004cd8\lwjgl-opengl-3.2.2.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.2.2\d3ad4df38e400b8afba1de63f84338809399df5b\lwjgl-glfw-3.2.2.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.2.2\3b8e6ebc5851dd3d17e37e5cadce2eff2a429f0f\lwjgl-stb-3.2.2.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.2.2\fcbe606c8f8da6f8f9a05e2c540eb1ee8632b0e9\lwjgl-tinyfd-3.2.2.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.2.2\8ad6294407e15780b43e84929c40e4c5e997972e\lwjgl-3.2.2.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.11.3\f378f889797edd7df8d32272c06ca80a1b6b0f58\text2speech-1.11.3.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.2.1\13b015768e0d04849d2794e4c47eb02d01a0de32\plexus-utils-3.2.1.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.8.0-beta4\83b0359d847ee053d745be7ec0d8e9e8a44304b4\slf4j-api-1.8.0-beta4.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.jline\jline-reader\3.12.1\4382ab1382c7b6f379377ed5f665dc2f6e1218bc\jline-reader-3.12.1.jar
+lib: C:\Users\fevxh\.gradle\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar
+log: null
+input: C:\Users\fevxh\Desktop\javapasta\build\libs\javapasta-1.0-SNAPSHOT.jar
+output: C:\Users\fevxh\Desktop\javapasta\build\reobfJar\output.jar
+threads: 12
+Names: C:\Users\fevxh\Desktop\javapasta\build\reobfJar\mappings.tsrg(reversed: false)
+Fix Annotations: false
+Fix Records: false
+Fix Identifiers: false
+Fix SourceFile: false
+Fix Line Numbers: false
+Strip codesigning signatures: false
+Adding Libraries to Inheritance
+Reading Input: C:\Users\fevxh\Desktop\javapasta\build\libs\javapasta-1.0-SNAPSHOT.jar
+Adding input to inheritance map
+Processing entries
+Conflicting propagated mapping for ru/zdcoder/troxill/yQa/createPlayer(Lnet/minecraft/client/world/ClientWorld;Lnet/minecraft/stats/StatisticsManager;Lnet/minecraft/client/util/ClientRecipeBook;ZZ)Lnet/minecraft/client/entity/player/ClientPlayerEntity; from net/minecraft/client/multiplayer/PlayerController/createPlayer(Lnet/minecraft/client/world/ClientWorld;Lnet/minecraft/stats/StatisticsManager;Lnet/minecraft/client/util/ClientRecipeBook;ZZ)Lnet/minecraft/client/entity/player/ClientPlayerEntity;: createPlayer -> func_239167_a_
+Conflicting propagated mapping for ru/zdcoder/troxill/yQa/createPlayer(Lnet/minecraft/client/world/ClientWorld;Lnet/minecraft/stats/StatisticsManager;Lnet/minecraft/client/util/ClientRecipeBook;)Lnet/minecraft/client/entity/player/ClientPlayerEntity; from net/minecraft/client/multiplayer/PlayerController/createPlayer(Lnet/minecraft/client/world/ClientWorld;Lnet/minecraft/stats/StatisticsManager;Lnet/minecraft/client/util/ClientRecipeBook;)Lnet/minecraft/client/entity/player/ClientPlayerEntity;: createPlayer -> func_199681_a
+Conflicting propagated mapping for ru/zdcoder/troxill/yQa/attack(Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/entity/Entity;)V from net/minecraft/client/multiplayer/PlayerController/attack(Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/entity/Entity;)V: attack -> func_78764_a
+Conflicting propagated mapping for ru/zdcoder/troxill/QkC/keyPressed(III)Z from net/minecraft/client/gui/screen/Screen/keyPressed(III)Z: keyPressed -> func_231046_a_
+Conflicting propagated mapping for ru/zdcoder/troxill/QkC/isPauseScreen()Z from net/minecraft/client/gui/screen/Screen/isPauseScreen()Z: isPauseScreen -> func_231177_au__
+Conflicting propagated mapping for ru/zdcoder/troxill/QkC/mouseScrolled(DDD)Z from net/minecraft/client/gui/INestedGuiEventHandler/mouseScrolled(DDD)Z: mouseScrolled -> func_231043_a_
+Conflicting propagated mapping for ru/zdcoder/troxill/QkC/onClose()V from net/minecraft/client/gui/screen/Screen/onClose()V: onClose -> func_231175_as__
+Conflicting propagated mapping for ru/zdcoder/troxill/QkC/mouseClicked(DDI)Z from net/minecraft/client/gui/INestedGuiEventHandler/mouseClicked(DDI)Z: mouseClicked -> func_231044_a_
+Conflicting propagated mapping for ru/zdcoder/troxill/QkC/render(Lcom/mojang/blaze3d/matrix/MatrixStack;IIF)V from net/minecraft/client/gui/screen/Screen/render(Lcom/mojang/blaze3d/matrix/MatrixStack;IIF)V: render -> func_230430_a_
+Conflicting propagated mapping for ru/zdcoder/troxill/QkC/mouseReleased(DDI)Z from net/minecraft/client/gui/INestedGuiEventHandler/mouseReleased(DDI)Z: mouseReleased -> func_231048_c_
+Conflicting propagated mapping for ru/zdcoder/troxill/iRi/getResults()Lnet/minecraft/profiler/IProfileResult; from net/minecraft/profiler/TimeTracker/getResults()Lnet/minecraft/profiler/IProfileResult;: getResults -> func_233509_e_
+Conflicting propagated mapping for ru/zdcoder/troxill/iRi/enable()V from net/minecraft/profiler/TimeTracker/enable()V: enable -> func_233507_c_
+Conflicting propagated mapping for ru/zdcoder/troxill/iRi/isEnabled()Z from net/minecraft/profiler/TimeTracker/isEnabled()Z: isEnabled -> func_233505_a_
+Conflicting propagated mapping for ru/zdcoder/troxill/iRi/disable()V from net/minecraft/profiler/TimeTracker/disable()V: disable -> func_233506_b_
+Conflicting propagated mapping for ru/zdcoder/troxill/iRi/getFiller()Lnet/minecraft/profiler/IProfiler; from net/minecraft/profiler/TimeTracker/getFiller()Lnet/minecraft/profiler/IProfiler;: getFiller -> func_233508_d_
+Conflicting propagated mapping for ru/zdcoder/troxill/xeQ/incrementCounter(Ljava/lang/String;)V from net/minecraft/profiler/IProfiler/incrementCounter(Ljava/lang/String;)V: incrementCounter -> func_230035_c_
+Conflicting propagated mapping for ru/zdcoder/troxill/xeQ/push(Ljava/lang/String;)V from net/minecraft/profiler/IProfiler/push(Ljava/lang/String;)V: push -> func_76320_a
+Conflicting propagated mapping for ru/zdcoder/troxill/xeQ/getResults()Lnet/minecraft/profiler/IProfileResult; from net/minecraft/profiler/IResultableProfiler/getResults()Lnet/minecraft/profiler/IProfileResult;: getResults -> func_219905_d
+Conflicting propagated mapping for ru/zdcoder/troxill/xeQ/push(Ljava/util/function/Supplier;)V from net/minecraft/profiler/IProfiler/push(Ljava/util/function/Supplier;)V: push -> func_194340_a
+Conflicting propagated mapping for ru/zdcoder/troxill/xeQ/pop()V from net/minecraft/profiler/IProfiler/pop()V: pop -> func_76319_b
+Conflicting propagated mapping for ru/zdcoder/troxill/xeQ/endTick()V from net/minecraft/profiler/IProfiler/endTick()V: endTick -> func_219897_b
+Conflicting propagated mapping for ru/zdcoder/troxill/xeQ/incrementCounter(Ljava/util/function/Supplier;)V from net/minecraft/profiler/IProfiler/incrementCounter(Ljava/util/function/Supplier;)V: incrementCounter -> func_230036_c_
+Conflicting propagated mapping for ru/zdcoder/troxill/xeQ/startTick()V from net/minecraft/profiler/IProfiler/startTick()V: startTick -> func_219894_a
+Conflicting propagated mapping for ru/zdcoder/troxill/xeQ/popPush(Ljava/util/function/Supplier;)V from net/minecraft/profiler/IProfiler/popPush(Ljava/util/function/Supplier;)V: popPush -> func_194339_b
+Conflicting propagated mapping for ru/zdcoder/troxill/xeQ/popPush(Ljava/lang/String;)V from net/minecraft/profiler/IProfiler/popPush(Ljava/lang/String;)V: popPush -> func_219895_b
+Conflicting propagated mapping for net/minecraft/world/World/lambda$fillReportDetails$6()Ljava/lang/String; from net/minecraft/client/world/ClientWorld/lambda$fillReportDetails$6()Ljava/lang/String;: lambda$fillReportDetails$6 -> func_228334_x_
+Conflicting propagated mapping for ru/zdcoder/troxill/mPv/tick(Z)V from net/minecraft/util/MovementInputFromOptions/tick(Z)V: tick -> func_225607_a_
+Conflicting propagated mapping for ru/zdcoder/troxill/MqL/tick()V from net/minecraft/client/entity/player/ClientPlayerEntity/tick()V: tick -> func_70071_h_
+Conflicting propagated mapping for ru/zdcoder/troxill/MqL/serverAiStep()V from net/minecraft/client/entity/player/ClientPlayerEntity/serverAiStep()V: serverAiStep -> func_70626_be
+Conflicting propagated mapping for ru/zdcoder/troxill/pEE/render(Lcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;ILnet/minecraft/entity/Entity;FFFFFF)V from net/minecraft/client/renderer/entity/layers/LayerRenderer/render(Lcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;ILnet/minecraft/entity/Entity;FFFFFF)V: render -> func_225628_a_
+Conflicting propagated mapping for ru/zdcoder/troxill/rcW/keyPress(JIIII)V from net/minecraft/client/KeyboardListener/keyPress(JIIII)V: keyPress -> func_197961_a
+Conflicting propagated mapping for ru/zdcoder/troxill/yVb/pick(F)V from net/minecraft/client/renderer/GameRenderer/pick(F)V: pick -> func_78473_a
+Adding extras
+Sorting
+Writing Output: C:\Users\fevxh\Desktop\javapasta\build\reobfJar\output.jar
+  META-INF/
+  META-INF/MANIFEST.MF
+  META-INF/mods.toml
+  by/
+  by/radioegor146/
+  by/radioegor146/gone/
+  by/radioegor146/gone/fludd/
+  by/radioegor146/gone/fludd/ForgeLoadHelper.class
+  pack.mcmeta
+  ru/
+  ru/zdcoder/
+  ru/zdcoder/troxill/
+  ru/zdcoder/troxill/AjI.class
+  ru/zdcoder/troxill/Avl.class
+  ru/zdcoder/troxill/BTT.class
+  ru/zdcoder/troxill/CuD.class
+  ru/zdcoder/troxill/EGc.class
+  ru/zdcoder/troxill/EuO.class
+  ru/zdcoder/troxill/GOa.class
+  ru/zdcoder/troxill/HDz.class
+  ru/zdcoder/troxill/HXU.class
+  ru/zdcoder/troxill/IUh.class
+  ru/zdcoder/troxill/Iho.class
+  ru/zdcoder/troxill/Initializer.class
+  ru/zdcoder/troxill/MqL.class
+  ru/zdcoder/troxill/NLm.class
+  ru/zdcoder/troxill/NfR.class
+  ru/zdcoder/troxill/NjR.class
+  ru/zdcoder/troxill/OLJ.class
+  ru/zdcoder/troxill/OOS.class
+  ru/zdcoder/troxill/PHL.class
+  ru/zdcoder/troxill/QXN.class
+  ru/zdcoder/troxill/QkC.class
+  ru/zdcoder/troxill/RYP.class
+  ru/zdcoder/troxill/SPv.class
+  ru/zdcoder/troxill/Ugi.class
+  ru/zdcoder/troxill/Xok.class
+  ru/zdcoder/troxill/Ybm.class
+  ru/zdcoder/troxill/ZAB.class
+  ru/zdcoder/troxill/ZhB.class
+  ru/zdcoder/troxill/Zrc.class
+  ru/zdcoder/troxill/ZyQ.class
+  ru/zdcoder/troxill/aWO.class
+  ru/zdcoder/troxill/agE.class
+  ru/zdcoder/troxill/bjF.class
+  ru/zdcoder/troxill/cQV.class
+  ru/zdcoder/troxill/dJB.class
+  ru/zdcoder/troxill/dKV.class
+  ru/zdcoder/troxill/dOs.class
+  ru/zdcoder/troxill/helpers/
+  ru/zdcoder/troxill/helpers/RenderHelper.class
+  ru/zdcoder/troxill/hgu.class
+  ru/zdcoder/troxill/iRi.class
+  ru/zdcoder/troxill/kjg.class
+  ru/zdcoder/troxill/mAi.class
+  ru/zdcoder/troxill/mPv.class
+  ru/zdcoder/troxill/managers/
+  ru/zdcoder/troxill/managers/DownloadManager.class
+  ru/zdcoder/troxill/managers/FriendManager.class
+  ru/zdcoder/troxill/modules/
+  ru/zdcoder/troxill/modules/AbstractModule.class
+  ru/zdcoder/troxill/modules/AimAssistModule.class
+  ru/zdcoder/troxill/modules/AuthoFireWorkModule.class
+  ru/zdcoder/troxill/modules/AutoClickerModule.class
+  ru/zdcoder/troxill/modules/AutoShiftTapModule.class
+  ru/zdcoder/troxill/modules/ChestStealerModule.class
+  ru/zdcoder/troxill/modules/ChinaHatModule.class
+  ru/zdcoder/troxill/modules/CustomCapeModule.class
+  ru/zdcoder/troxill/modules/ESPModule.class
+  ru/zdcoder/troxill/modules/ElytraSwapModule.class
+  ru/zdcoder/troxill/modules/FreeCamModule.class
+  ru/zdcoder/troxill/modules/GammaModule.class
+  ru/zdcoder/troxill/modules/GlowESPModule.class
+  ru/zdcoder/troxill/modules/HUDModule.class
+  ru/zdcoder/troxill/modules/HitboxModule.class
+  ru/zdcoder/troxill/modules/InvWalkModule.class
+  ru/zdcoder/troxill/modules/ItemESPModule.class
+  ru/zdcoder/troxill/modules/ItemScrollerModule.class
+  ru/zdcoder/troxill/modules/MCFModule.class
+  ru/zdcoder/troxill/modules/MiddlePearlModule.class
+  ru/zdcoder/troxill/modules/ModuleManager.class
+  ru/zdcoder/troxill/modules/NoFireModule.class
+  ru/zdcoder/troxill/modules/NoFriendDamageModule.class
+  ru/zdcoder/troxill/modules/NoHitBoxesModule.class
+  ru/zdcoder/troxill/modules/NoHurtCamModule.class
+  ru/zdcoder/troxill/modules/NoJumpDelayModule.class
+  ru/zdcoder/troxill/modules/NoPushModule.class
+  ru/zdcoder/troxill/modules/NoRainModule.class
+  ru/zdcoder/troxill/modules/PlayerLeaveModule.class
+  ru/zdcoder/troxill/modules/SelfDestructModule.class
+  ru/zdcoder/troxill/modules/SprintModule.class
+  ru/zdcoder/troxill/modules/StreamBypassModule.class
+  ru/zdcoder/troxill/modules/TapeMouseModule.class
+  ru/zdcoder/troxill/modules/TargetsEspModule.class
+  ru/zdcoder/troxill/modules/TracersModule.class
+  ru/zdcoder/troxill/nTK.class
+  ru/zdcoder/troxill/npG.class
+  ru/zdcoder/troxill/oBN.class
+  ru/zdcoder/troxill/pEE.class
+  ru/zdcoder/troxill/qmi.class
+  ru/zdcoder/troxill/rXz.class
+  ru/zdcoder/troxill/rcW.class
+  ru/zdcoder/troxill/sJJ.class
+  ru/zdcoder/troxill/sfa.class
+  ru/zdcoder/troxill/tqs.class
+  ru/zdcoder/troxill/wNS.class
+  ru/zdcoder/troxill/xeQ.class
+  ru/zdcoder/troxill/yCC.class
+  ru/zdcoder/troxill/yQa.class
+  ru/zdcoder/troxill/yVb.class
+  ru/zdcoder/troxill/yzO.class

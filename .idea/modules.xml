@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javapasta.main.iml" filepath="$PROJECT_DIR$/.idea/modules/javapasta.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javapasta.test.iml" filepath="$PROJECT_DIR$/.idea/modules/javapasta.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.journaltrace.javapasta.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.journaltrace.javapasta.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.journaltrace.javapasta.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.journaltrace.javapasta.test.iml" />
+    </modules>
+  </component>
+</project>
