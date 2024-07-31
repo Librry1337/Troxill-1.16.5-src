@@ -15,12 +15,12 @@ license="All-Rights-Reserved"
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]] #mandatory
 # The modid of the mod
-modId="troxill"
+modId="examplemod"
 version="1.16.5"
-displayName="Troxill"
-description="Troxill"
+displayName="examplemod"
+description="examplemod"
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies."troxill"]] #optional
+[[dependencies."examplemod"]] #optional
    # the modid of the dependency
    modId="forge" #mandatory
    # Does this dependency have to exist - if not, ordering below must be specified
@@ -33,7 +33,7 @@ description="Troxill"
    ordering="NONE"
    # Side this dependency is applied on - BOTH, CLIENT, or SERVER
    side="BOTH"# Here's another dependency
-[[dependencies."troxill"]]
+[[dependencies."examplemod"]]
    modId="minecraft"
    mandatory=true
    # This version range declares a minimum of the current minecraft version up to but not including the next major version

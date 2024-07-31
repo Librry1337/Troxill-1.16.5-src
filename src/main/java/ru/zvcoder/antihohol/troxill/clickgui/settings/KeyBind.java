@@ -6,36 +6,33 @@ package ru.zvcoder.antihohol.troxill.clickgui.settings;
 
 public class KeyBind
 {
-    private final boolean vZM;
-    private final int BNh;
-    private String NpN;
-    private String[] Moa;
+
+    private final int key_bind;
+    private String display_name;
+    private String[] display_name_list;
     
-    public KeyBind(final boolean var1, final int var2, final String var3) {
-        this.vZM = var1;
-        this.BNh = var2;
-        this.NpN = var3;
+    public KeyBind(final int var2, final String var3) {
+
+        this.key_bind = var2;
+        this.display_name = var3;
     }
     
-    public KeyBind(final boolean var1, final int var2, final String[] var3) {
-        this.vZM = var1;
-        this.BNh = var2;
-        this.Moa = var3;
+    public KeyBind(final int var2, final String[] var3) {
+
+        this.key_bind = var2;
+        this.display_name_list = var3;
     }
     
-    public String[] FTv() {
-        return this.Moa;
+    public String[] get_display_name_list() {
+        return this.display_name_list;
+    }
+
+    
+    public int get_key_bind() {
+        return this.key_bind;
     }
     
-    public boolean GDN() {
-        return this.vZM;
-    }
-    
-    public int VHN() {
-        return this.BNh;
-    }
-    
-    public String oGI() {
-        return this.NpN;
+    public String get_display_name() {
+        return this.display_name;
     }
 }

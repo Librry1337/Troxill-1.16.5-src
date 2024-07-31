@@ -59,7 +59,7 @@ public class ItemScrollerModule extends AbstractModule
     
     private Slot AVQ(final Screen var1) {
         final Field[] var2 = ContainerScreen.class.getDeclaredFields();
-        final Field var3 = var2[this.QkX(Initializer.PQg)];
+        final Field var3 = var2[this.QkX(Initializer.field_id)];
         var3.setAccessible(true);
         try {
             final Slot var4 = (Slot)var3.get(var1);

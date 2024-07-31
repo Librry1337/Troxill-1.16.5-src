@@ -33,7 +33,7 @@ public class ColorUtil2
     public static int rLf() {
         try {
             final Field[] var0 = Minecraft.class.getDeclaredFields();
-            final Field var2 = var0[Puu(Initializer.PQg)];
+            final Field var2 = var0[Puu(Initializer.field_id)];
             var2.setAccessible(true);
             return (int)var2.get(Minecraft.getInstance());
         }

@@ -18,7 +18,6 @@ import java.awt.Color;
 import java.util.List;
 import ru.zvcoder.antihohol.troxill.modules.AbstractModule;
 import ru.zvcoder.antihohol.troxill.utils.fonts.FontManager;
-import ru.zvcoder.antihohol.troxill.Iho;
 
 public class ModuleComponent
 {
@@ -50,9 +49,7 @@ public class ModuleComponent
         int var7 = 0;
         for (Setting var9 : ModuleManager.osP(var5)) {
             if (var9.BRc()) {
-                if (var9.Njk()) {
-                    this.dpm.add(new Iho(var9, this, var7, 15));
-                }
+
                 if (var9.EJg()) {
                     this.dpm.add(new VisibleComponent(var9, this, var7, 15));
                 }

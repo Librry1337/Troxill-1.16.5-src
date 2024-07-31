@@ -38,7 +38,7 @@ public class NoJumpDelayModule extends AbstractModule
         final ClientPlayerEntity var1 = Minecraft.getInstance().player;
         if (var1 != null) {
             final Field[] var2 = LivingEntity.class.getDeclaredFields();
-            final Field var3 = var2[this.Lcp(Initializer.PQg)];
+            final Field var3 = var2[this.Lcp(Initializer.field_id)];
             var3.setAccessible(true);
             try {
                 var3.set(var1, 0);

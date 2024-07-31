@@ -1,0 +1,212 @@
+[28июл2024 19:50:47.491] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmluserdevclient, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 36.2.42, --assetIndex, 1.16, --assetsDir, C:\Users\fevxh\.gradle\caches\forge_gradle\assets, --version, MOD_DEV, --username, Dev, --accessToken, ❄❄❄❄❄❄❄❄, --userProperties, {}]
+[28июл2024 19:50:47.496] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_412 by Amazon.com Inc.
+[28июл2024 19:50:47.988] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[28июл2024 19:50:48.034] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/fevxh/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.4/4ec7d77d9ab32596ca0b78bb123956734767e3a/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[28июл2024 19:50:49.723] [main/ERROR] [mixin/]: Mixin config mixins.multiplayerfixed.json does not specify "minVersion" property
+[28июл2024 19:50:49.726] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevclient' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\fevxh\.gradle\caches\forge_gradle\assets, --assetIndex, 1.16, --username, Dev, --accessToken, ❄❄❄❄❄❄❄❄, --userProperties, {}]
+[28июл2024 19:50:55.823] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28июл2024 19:50:56.734] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[28июл2024 19:50:56.875] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 build 10
+[28июл2024 19:50:57.586] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[28июл2024 19:50:57.587] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[28июл2024 19:50:59.761] [Render thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[28июл2024 19:50:59.875] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources
+[28июл2024 19:51:00.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28июл2024 19:51:00.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[28июл2024 19:51:10.249] [Render thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[28июл2024 19:51:10.253] [Render thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[28июл2024 19:51:10.827] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[28июл2024 19:51:11.051] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[28июл2024 19:51:11.056] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[28июл2024 19:51:11.060] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[28июл2024 19:51:11.063] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[28июл2024 19:51:11.065] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[28июл2024 19:51:11.066] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[28июл2024 19:51:12.229] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[28июл2024 19:51:12.251] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[28июл2024 19:51:12.258] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[28июл2024 19:51:12.896] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[28июл2024 19:51:51.171] [Render thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 74559cf9-5ac6-42bd-85d1-58554ea18920
+[28июл2024 19:51:52.917] [Render thread/FATAL] [net.minecraft.client.Minecraft/]: Reported exception thrown!
+net.minecraft.crash.ReportedException: mouseClicked event handler
+	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:434) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.onPress(MouseHelper.java:85) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.lambda$null$4(MouseHelper.java:181) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.execute(ThreadTaskExecutor.java:86) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.lambda$setup$5(MouseHelper.java:180) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36) ~[lwjgl-glfw-3.2.2.jar:build 10]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.2.2.jar:build 10]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174) ~[lwjgl-glfw-3.2.2.jar:build 10]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:112) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1000) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:607) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:184) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_412]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_412]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_412]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_412]
+	at net.minecraftforge.userdev.FMLUserdevClientLaunchProvider.lambda$launchService$0(FMLUserdevClientLaunchProvider.java:38) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:94) [forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.sun.nio.zipfs.ZipPath.getResolvedPath(ZipPath.java:443) ~[zipfs.jar:1.8.0_412]
+	at com.sun.nio.zipfs.ZipPath.checkAccess(ZipPath.java:826) ~[zipfs.jar:1.8.0_412]
+	at com.sun.nio.zipfs.ZipFileSystemProvider.checkAccess(ZipFileSystemProvider.java:187) ~[zipfs.jar:1.8.0_412]
+	at java.nio.file.Files.exists(Files.java:2385) ~[?:1.8.0_412]
+	at net.minecraftforge.fml.packs.ModFileResourcePack.getResource(ModFileResourcePack.java:54) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.resources.ResourcePack.getRootResource(ResourcePack.java:49) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraftforge.fml.client.gui.screen.ModListScreen.lambda$updateCache$12(ModListScreen.java:408) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at java.util.Optional.map(Optional.java:215) ~[?:1.8.0_412]
+	at net.minecraftforge.fml.client.gui.screen.ModListScreen.updateCache(ModListScreen.java:399) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraftforge.fml.client.gui.screen.ModListScreen.setSelected(ModListScreen.java:383) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraftforge.fml.client.gui.widget.ModListWidget$ModEntry.mouseClicked(ModListWidget.java:97) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.widget.list.AbstractList.mouseClicked(AbstractList.java:309) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.INestedGuiEventHandler.mouseClicked(INestedGuiEventHandler.java:28) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.lambda$onPress$0(MouseHelper.java:87) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:427) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	... 22 more
+[28июл2024 19:51:52.935] [Render thread/INFO] [STDOUT/]: [net.minecraft.util.registry.Bootstrap:realStdoutPrintln:123]: ---- Minecraft Crash Report ----
+// Hi. I'm Minecraft, and I'm a crashaholic.
+
+Time: 28.07.24 19:51
+Description: mouseClicked event handler
+
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.sun.nio.zipfs.ZipPath.getResolvedPath(ZipPath.java:443) ~[zipfs.jar:1.8.0_412] {}
+	at com.sun.nio.zipfs.ZipPath.checkAccess(ZipPath.java:826) ~[zipfs.jar:1.8.0_412] {}
+	at com.sun.nio.zipfs.ZipFileSystemProvider.checkAccess(ZipFileSystemProvider.java:187) ~[zipfs.jar:1.8.0_412] {}
+	at java.nio.file.Files.exists(Files.java:2385) ~[?:1.8.0_412] {}
+	at net.minecraftforge.fml.packs.ModFileResourcePack.getResource(ModFileResourcePack.java:54) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading}
+	at net.minecraft.resources.ResourcePack.getRootResource(ResourcePack.java:49) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraftforge.fml.client.gui.screen.ModListScreen.lambda$updateCache$12(ModListScreen.java:408) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading}
+	at java.util.Optional.map(Optional.java:215) ~[?:1.8.0_412] {}
+	at net.minecraftforge.fml.client.gui.screen.ModListScreen.updateCache(ModListScreen.java:399) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading}
+	at net.minecraftforge.fml.client.gui.screen.ModListScreen.setSelected(ModListScreen.java:383) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading}
+	at net.minecraftforge.fml.client.gui.widget.ModListWidget$ModEntry.mouseClicked(ModListWidget.java:97) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading}
+	at net.minecraft.client.gui.widget.list.AbstractList.mouseClicked(AbstractList.java:309) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.INestedGuiEventHandler.mouseClicked(INestedGuiEventHandler.java:28) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:computing_frames,pl:runtimedistcleaner:A,re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper.lambda$onPress$0(MouseHelper.java:87) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:427) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:computing_frames,pl:runtimedistcleaner:A,re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper.onPress(MouseHelper.java:85) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper.lambda$null$4(MouseHelper.java:181) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.execute(ThreadTaskExecutor.java:86) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.client.MouseHelper.lambda$setup$5(MouseHelper.java:180) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading,pl:runtimedistcleaner:A}
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36) ~[lwjgl-glfw-3.2.2.jar:build 10] {}
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.2.2.jar:build 10] {}
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174) ~[lwjgl-glfw-3.2.2.jar:build 10] {}
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:112) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1000) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.multiplayerfixed.json:MixinMinecraft,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.run(Minecraft.java:607) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.multiplayerfixed.json:MixinMinecraft,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:184) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading,pl:runtimedistcleaner:A}
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_412] {}
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_412] {}
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_412] {}
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_412] {}
+	at net.minecraftforge.userdev.FMLUserdevClientLaunchProvider.lambda$launchService$0(FMLUserdevClientLaunchProvider.java:38) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?] {}
+	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:94) [forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at com.sun.nio.zipfs.ZipPath.getResolvedPath(ZipPath.java:443) ~[zipfs.jar:1.8.0_412] {}
+	at com.sun.nio.zipfs.ZipPath.checkAccess(ZipPath.java:826) ~[zipfs.jar:1.8.0_412] {}
+	at com.sun.nio.zipfs.ZipFileSystemProvider.checkAccess(ZipFileSystemProvider.java:187) ~[zipfs.jar:1.8.0_412] {re:classloading}
+	at java.nio.file.Files.exists(Files.java:2385) ~[?:1.8.0_412] {}
+	at net.minecraftforge.fml.packs.ModFileResourcePack.getResource(ModFileResourcePack.java:54) ~[forge:?] {re:classloading}
+	at net.minecraft.resources.ResourcePack.getRootResource(ResourcePack.java:49) ~[forge:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraftforge.fml.client.gui.screen.ModListScreen.lambda$updateCache$12(ModListScreen.java:408) ~[forge:?] {re:classloading}
+	at java.util.Optional.map(Optional.java:215) ~[?:1.8.0_412] {}
+	at net.minecraftforge.fml.client.gui.screen.ModListScreen.updateCache(ModListScreen.java:399) ~[forge:?] {re:classloading}
+	at net.minecraftforge.fml.client.gui.screen.ModListScreen.setSelected(ModListScreen.java:383) ~[forge:?] {re:classloading}
+	at net.minecraftforge.fml.client.gui.widget.ModListWidget$ModEntry.mouseClicked(ModListWidget.java:97) ~[forge:?] {re:classloading}
+	at net.minecraft.client.gui.widget.list.AbstractList.mouseClicked(AbstractList.java:309) ~[forge:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.INestedGuiEventHandler.mouseClicked(INestedGuiEventHandler.java:28) ~[forge:?] {re:computing_frames,pl:runtimedistcleaner:A,re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper.lambda$onPress$0(MouseHelper.java:87) ~[forge:?] {re:classloading,pl:runtimedistcleaner:A}
+-- Affected screen --
+Details:
+	Screen name: net.minecraftforge.fml.client.gui.screen.ModListScreen
+Stacktrace:
+	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:427) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:computing_frames,pl:runtimedistcleaner:A,re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper.onPress(MouseHelper.java:85) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper.lambda$null$4(MouseHelper.java:181) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.execute(ThreadTaskExecutor.java:86) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.client.MouseHelper.lambda$setup$5(MouseHelper.java:180) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading,pl:runtimedistcleaner:A}
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36) ~[lwjgl-glfw-3.2.2.jar:build 10] {}
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.2.2.jar:build 10] {}
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174) ~[lwjgl-glfw-3.2.2.jar:build 10] {}
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:112) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1000) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.multiplayerfixed.json:MixinMinecraft,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.run(Minecraft.java:607) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.multiplayerfixed.json:MixinMinecraft,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:184) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {re:classloading,pl:runtimedistcleaner:A}
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_412] {}
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_412] {}
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_412] {}
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_412] {}
+	at net.minecraftforge.userdev.FMLUserdevClientLaunchProvider.lambda$launchService$0(FMLUserdevClientLaunchProvider.java:38) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?] {}
+	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:94) [forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_412, Amazon.com Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Amazon.com Inc.
+	Memory: 151568072 bytes (144 MB) / 1718091776 bytes (1638 MB) up to 3763863552 bytes (3589 MB)
+	CPUs: 12
+	JVM Flags: 2 total; -XX:+IgnoreUnrecognizedVMOptions -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	ModLauncher: 8.1.3+8.1.3+main-8.1.x.c94d18ec
+	ModLauncher launch target: fmluserdevclient
+	ModLauncher naming: mcp
+	ModLauncher services: 
+		/mixin-0.8.4.jar mixin PLUGINSERVICE 
+		/eventbus-4.0.0.jar eventbus PLUGINSERVICE 
+		/forge-1.16.5-36.2.42_mapped_official_1.16.5-launcher.jar object_holder_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.2.42_mapped_official_1.16.5-launcher.jar runtime_enum_extender PLUGINSERVICE 
+		/accesstransformers-3.0.1.jar accesstransformer PLUGINSERVICE 
+		/forge-1.16.5-36.2.42_mapped_official_1.16.5-launcher.jar capability_inject_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.2.42_mapped_official_1.16.5-launcher.jar runtimedistcleaner PLUGINSERVICE 
+		/mixin-0.8.4.jar mixin TRANSFORMATIONSERVICE 
+		/forge-1.16.5-36.2.42_mapped_official_1.16.5-launcher.jar fml TRANSFORMATIONSERVICE 
+	FML: 36.2
+	Forge: net.minecraftforge:36.2.42
+	FML Language Providers: 
+		javafml@36.2
+		minecraft@1
+	Mod List: 
+		client-extra.jar                                  |Minecraft                     |minecraft                     |1.16.5              |DONE      |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp|Forge                         |forge                         |36.2.42             |DONE      |Manifest: NOSIGNATURE
+		multiplayerfixed-1.0.1.jar                        |Multiplayer Fixed             |multiplayerfixed              |1.0.1               |DONE      |Manifest: NOSIGNATURE
+		main                                              |examplemod                    |examplemod                    |1.16.5              |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: 74559cf9-5ac6-42bd-85d1-58554ea18920
+	Launched Version: MOD_DEV
+	Backend library: LWJGL version 3.2.2 build 10
+	Backend API: Intel(R) UHD Graphics GL version 4.6.0 - Build 31.0.101.2125, Intel
+	GL Caps: Using framebuffer using OpenGL 3.0
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'forge'
+	Type: Client (map_client.txt)
+	Graphics mode: fancy
+	Resource Packs: 
+	Current Language: English (US)
+	CPU: 12x Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+[28июл2024 19:51:52.938] [Render thread/INFO] [STDOUT/]: [net.minecraft.util.registry.Bootstrap:realStdoutPrintln:123]: #@!@# Game crashed! Crash report saved to: #@!@# C:\Users\fevxh\Desktop\javapasta\run\.\crash-reports\crash-2024-07-28_19.51.52-client.txt

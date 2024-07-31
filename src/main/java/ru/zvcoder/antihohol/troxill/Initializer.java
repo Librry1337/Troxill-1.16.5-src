@@ -15,16 +15,16 @@ import ru.zvcoder.antihohol.troxill.utils.fonts.FontManager;
 
 public class Initializer
 {
-    public static float cCn;
-    public static String GDN;
+
+
     public static ModuleManager moduleManager;
-    private boolean kDh;
-    public static int PQg;
+
+    public static int field_id;
     
     private static void mpV() {
         final Field var0 = Minecraft.class.getDeclaredFields()[15];
         if (var0.getType().getName().contains(Minecraft.class.getName())) {
-            Initializer.PQg = 5;
+            Initializer.field_id = 5;
         }
     }
     
@@ -39,7 +39,7 @@ public class Initializer
     }
     
     static {
-        Initializer.cCn = 2.41f;
-        Initializer.PQg = 3;
+
+        Initializer.field_id = 3;
     }
 }

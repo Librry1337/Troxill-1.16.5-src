@@ -69,16 +69,16 @@ public class KeyBindComponent extends Component
             if (this.IvX.xKC.Osr() != 0 && this.IvX.xKC.Osr() != -1) {
                 if (KeyBindManager.FQx[this.IvX.xKC.Osr()] != null) {
                     final KeyBind var7 = KeyBindManager.FQx[this.IvX.xKC.Osr()];
-                    if (var7.oGI() != null) {
-                        FontManager.uAe().MzK(var7.oGI(), this.Pon + this.ONT - FontManager.uAe().gVe(var7.oGI()) - 5.0f, this.lYe + this.xoB / 4.0 + this.ZTJ - 1.0 + var1, new Color(16711863).getRGB());
+                    if (var7.get_display_name() != null) {
+                        FontManager.uAe().MzK(var7.get_display_name(), this.Pon + this.ONT - FontManager.uAe().gVe(var7.get_display_name()) - 5.0f, this.lYe + this.xoB / 4.0 + this.ZTJ - 1.0 + var1, new Color(16711863).getRGB());
                     }
-                    else if (var7.FTv() != null) {
+                    else if (var7.get_display_name_list() != null) {
                         float var8 = 0.0f;
-                        for (final String var12 : var7.FTv()) {
+                        for (final String var12 : var7.get_display_name_list()) {
                             var8 = (float)(var8 + (double) FontManager.uAe().gVe(var12) + 0.5);
                         }
                         var2 = 0.0f;
-                        for (final String var12 : var7.FTv()) {
+                        for (final String var12 : var7.get_display_name_list()) {
                             FontManager.uAe().MzK(var12, this.Pon + this.ONT - var8 + var2 - 5.0f, this.lYe + this.xoB / 4.0 + this.ZTJ - 1.0 + var1, new Color(16711863).getRGB());
                             var2 = (float)(var2 + (double) FontManager.uAe().gVe(var12) + 0.5);
                         }

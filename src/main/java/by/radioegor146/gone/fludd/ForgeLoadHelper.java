@@ -10,7 +10,7 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.fml.common.Mod;
 
-@Mod("troxill")
+@Mod("examplemod")
 public class ForgeLoadHelper
 {
     public ForgeLoadHelper() {
