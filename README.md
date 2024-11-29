@@ -1,4 +1,4 @@
 troxill has been deported on github
-dsc.gg/ourgodz
+🤩getted bst prot🤩
 
 craked by radioegor146 & JournalTrace & Librry
